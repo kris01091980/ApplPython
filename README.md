@@ -11,3 +11,6 @@ Applied Python
 ## Скриншоты работы фронта
 
 ![alt text](/scr_1.jpeg)
+![alt text](/scr_2.jpeg)
+![alt text](/scr_3.jpeg)
+![alt text](/scr_4.jpeg)
