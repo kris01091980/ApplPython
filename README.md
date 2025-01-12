@@ -1,4 +1,4 @@
-# ApplPython
+# Прикладной Python
 Applied Python
 
 # ИИ_ДЗ_1_(ОБЯЗАТЕЛЬНОЕ)
